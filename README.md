@@ -1,2 +1,2 @@
 # :icecream: Vanilla
-Lab for vanilla front-end experiments
+Lab for vanilla web experiments
